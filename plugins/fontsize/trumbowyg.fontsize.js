@@ -23,7 +23,7 @@
                     'medium': 'Normal',
                     'large': 'Grand',
                     'x-large': 'Très grand',
-                    'custom': 'Douane'
+                    'custom': 'Personnalisé'
                 }
             },
             de: {
