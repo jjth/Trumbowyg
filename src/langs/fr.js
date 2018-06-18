@@ -22,7 +22,7 @@ jQuery.trumbowyg.langs.fr = {
 
     bold: 'Gras',
     italic: 'Italique',
-    strikethrough: 'Rayé',
+    strikethrough: 'Barré',
     underline: 'Souligné',
 
     strong: 'Fort',
